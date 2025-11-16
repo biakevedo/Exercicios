@@ -1,9 +1,7 @@
-💻 Exercícios de Java
-
 Este repositório contém exercícios práticos de Java, voltados para o aprendizado e fixação dos principais conceitos da linguagem.
 O objetivo é fornecer exemplos e desafios para desenvolver lógica de programação, orientação a objetos e boas práticas de codificação.
 
-🧩 Conteúdo dos exercícios
+Conteúdo dos exercícios
 
 Variáveis e Tipos de Dados – uso de int, double, String e outros tipos primitivos
 
